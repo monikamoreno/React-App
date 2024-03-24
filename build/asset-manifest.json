@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/static/js/main.37d56e24.js",
+    "static/media/churros.jpg": "/static/media/churros.516126d8aa22d861ea36.jpg",
+    "static/media/logo.svg": "/static/media/logo.bad0609af761240514dd2ac19dc1739f.svg",
+    "index.html": "/index.html",
+    "main.37d56e24.js.map": "/static/js/main.37d56e24.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.37d56e24.js"
+  ]
+}
